@@ -1,0 +1,28 @@
+{
+  "name": "websocket-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " node dist/index.js",
+    "build": "tsc",
+    "dev": " tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Light1300/WebSocket-Experiment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Light1300/WebSocket-Experiment/issues"
+  },
+  "homepage": "https://github.com/Light1300/WebSocket-Experiment#readme",
+  "dependencies": {
+    "@types/ws": "^8.18.1",
+    "ws": "^8.19.0"
+  }
+}
