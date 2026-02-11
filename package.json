@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/Light1300/WebSocket-Experiment#readme",
   "dependencies": {
+    "@types/redis": "^4.0.10",
     "@types/ws": "^8.18.1",
+    "redis": "^5.10.0",
     "ws": "^8.19.0"
   }
 }
